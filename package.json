@@ -1,0 +1,13 @@
+{
+  "name": "lc79-super-hybrid-ai-api",
+  "version": "3.2.0",
+  "description": "LC79 Super Hybrid AI Analyzer v3.2 API Server (TX & MD5)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "license": "MIT"
+}
